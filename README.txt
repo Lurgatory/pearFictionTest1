@@ -5,3 +5,7 @@ To open it:
 Go to Terminal then Enter : npx vite. 
 
 It will give a local link and open the website.
+
+It might show the localhost page is not found issues. Thus, I think you have to build your own local host server, and run it. 
+
+Enjoy the play!
